@@ -1,0 +1,3 @@
+[submodule "pinkinfinity"]
+    path = pinkinfinity
+    url = https://github.com/Afu001/pinkinfinity.git
